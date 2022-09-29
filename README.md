@@ -4,20 +4,20 @@
 
 ## 🛫 First steps
 
-Read code of conduct.
-Read contributing guidelines.
-Setup your dev environment.
+* Read code of conduct.
+* Read contributing guidelines.
+* Setup your dev environment.
 
 ## New to git and git hub?
 This repository is for beginners and first timers. Just follow these steps to fork->clone->edit->PR a request.
 https://github.com/SJ-Kumar/Github_Basics
 
 ## 👉 Picking issues
-⋅⋅* Unordered sub-listWe highly recommend setting up your dev environment before signing up for any issue.
+* Recommend setting up your dev environment before signing up for any issue.
 
-Prefer starting with issues labeled as good first issue.(https://github.com/VS-Babu/Hacktoberfest-2022/issues)
-Always comment on the issue first to check if it's available. If it is, it will be assigned to you, and you are given 4 days to complete it. If the deadline is not met, the issue is free to be taken by somebody else. This way we want to avoid multiple people working on the same issue.
+* Prefer starting with issues labeled as good first issue.(https://github.com/VS-Babu/Hacktoberfest-2022/issues)
+* Always comment on the issue first to check if it's available. If it is, it will be assigned to you, and you are given 4 days to complete it. If the deadline is not met, the issue is free to be taken by somebody else. This way we want to avoid multiple people working on the same issue.
 
-If you feel like you can also contribute more complex bug fixes/features please do not hesitate and comment on the issue you have chosen. More complex issues have no deadline.
+* If you feel like you can also contribute more complex bug fixes/features please do not hesitate and comment on the issue you have chosen. More complex issues have no deadline.
 
-When done, make sure your PR description shows a screenshot/video of the newly implemented feature so that person who will review your code will not need to run your code locally.
+* When done, make sure your PR description shows a screenshot/video of the newly implemented feature so that person who will review your code will not need to run your code locally.
