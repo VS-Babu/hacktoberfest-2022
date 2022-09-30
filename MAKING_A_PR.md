@@ -40,6 +40,6 @@ Click on Create pull request.
 Complete the checklist in the description, and create the pull request.
 
 ### That's it! You have successfully created a Pull Request.     
-Now just sit back and wait for it to be approved and merged by a maintainer
+Now just sit back and wait for it to be approved and merged by a maintainer.
 
 
