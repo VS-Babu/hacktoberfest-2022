@@ -12,7 +12,12 @@
 This repository is for beginners and first timers. Just follow these steps to fork->clone->edit->PR a request.
 https://github.com/SJ-Kumar/Github_Basics
 
-- #### <a href="https://github.com/VS-Babu/Leetcode">LeetCode Questions</a> - Frequently asked questions from LeetCode in interviews of MNC's.
+## How to contribute?
+You can select the repositories that you want to contribute to, and begin your open source experience while assisting deployed projects! Sounds interesting? Let's get started!
+
+- #### <a href="https://github.com/VS-Babu/hacktoberfest-2022/tree/main/Leetcode/Check%20If%20N%20and%20Its%20Double%20Exist">LeetCode Questions</a> - Frequently asked questions from LeetCode in interviews of MNC's.
+
+ ## OR
 
 ## 👉 Picking issues
 * Recommend setting up your dev environment before signing up for any issue.
