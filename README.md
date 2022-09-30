@@ -12,6 +12,8 @@
 This repository is for beginners and first timers. Just follow these steps to fork->clone->edit->PR a request.
 https://github.com/SJ-Kumar/Github_Basics
 
+- #### <a href="https://github.com/VS-Babu/Leetcode">LeetCode Questions</a> - Frequently asked questions from LeetCode in interviews of MNC's.
+
 ## 👉 Picking issues
 * Recommend setting up your dev environment before signing up for any issue.
 
