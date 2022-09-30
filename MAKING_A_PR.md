@@ -2,13 +2,13 @@
 
 Create your own copy of this repo by forking it. 
 
-<img src="https://raw.githubusercontent.com/TLE-MEC/Hack-CP-DSA/main/Assets/images/github1.png" alt="github1"></img>
+![fork](https://user-images.githubusercontent.com/113498367/193234691-96af9588-5e72-4b33-a857-1a505acc58f2.jpg)
 
 ## 2. Clone your fork
 _This requires git to be installed on your system. Install it from [here](https://git-scm.com/) if you don't have it._  
 Use the following command to clone the repo to your local folder.  
 ```
-git clone https://github.com/<your_username>/Hack-CP-DSA.git
+git clone https://github.com/<your_username>/hacktoberfest2022.git
 ```
 (Replace ```<your_username>``` with your github username)
 
@@ -29,15 +29,13 @@ git push
 
 Go to your fork on Github. If you have pushed the changes, you should see the page as shown below.       
 
-<img src="https://raw.githubusercontent.com/TLE-MEC/Hack-CP-DSA/main/Assets/images/github2.png" alt="github1"></img>  
-
 Click on Contribute > Open pull request.  
 
-<img src="https://raw.githubusercontent.com/TLE-MEC/Hack-CP-DSA/main/Assets/images/github3.png" alt="github1"></img>  
+![openPR](https://user-images.githubusercontent.com/113498367/193234229-174c0945-826e-4e5e-a47d-84b2511c5956.jpg)
 
 Click on Create pull request.   
 
-<img src="https://raw.githubusercontent.com/TLE-MEC/Hack-CP-DSA/main/Assets/images/github4.png" alt="github1"></img>
+![updatepull](https://user-images.githubusercontent.com/113498367/193234169-c9d530fc-6bb1-44fc-a55f-8878b9867337.jpg)
 
 Complete the checklist in the description, and create the pull request.
 
