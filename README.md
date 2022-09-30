@@ -23,20 +23,14 @@ https://github.com/SJ-Kumar/Github_Basics
 
 * When done, make sure your PR description shows a screenshot/video of the newly implemented feature so that person who will review your code will not need to run your code locally.
 
-# Installation Steps
-Fork the project
-
-Clone the project
-
-Create a new branch (git checkout -b new-feature)
-
-Make the appropriate changes in the files (git add .)
-
-Add changes to reflect the changes made (git commit -m 'commit message')
-
-Push to the branch (git push)
-
-Create a Pull Request
+# 🛠️ Installation Steps
+1. Fork the project
+2. Clone the project
+3. Create a new branch (`git checkout -b new-feature`)
+4. Make the appropriate changes in the files (`git add .`)
+5. Add changes to reflect the changes made (`git commit -m 'commit message'`)
+6. Push to the branch (`git push`)
+7. Create a Pull Request.
 
 # 👨‍💻 Contributing
 Any contributions you make are greatly appreciated.
