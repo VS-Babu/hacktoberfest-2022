@@ -23,7 +23,7 @@ https://github.com/SJ-Kumar/Github_Basics
 
 * When done, make sure your PR description shows a screenshot/video of the newly implemented feature so that person who will review your code will not need to run your code locally.
 
-## Installation Steps
+# Installation Steps
 Fork the project
 
 Clone the project
