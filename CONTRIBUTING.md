@@ -1,7 +1,7 @@
 
 # How to contribute
 You can contribute to this repo in any of the following ways
-## :pencil2: Adding new problems and solutions
+## Adding new problems and solutions
 
 * Selecting a problem from a website like [Hackerrank](https://hackerrank.com/), [Leetcode](https://leetcode.com/) etc
   * Add it to the respective folder (eg: Leetcode; if it doesn't exist, create it)
