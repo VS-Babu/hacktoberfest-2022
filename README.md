@@ -17,7 +17,7 @@ You can select the repositories that you want to contribute to, and begin your o
 
 - #### <a href="https://github.com/VS-Babu/hacktoberfest-2022/tree/main/Leetcode/Check%20If%20N%20and%20Its%20Double%20Exist">LeetCode Questions</a> - Frequently asked questions from LeetCode in interviews of MNC's.
 
-- #### CSS Animations
+- #### <a hef="">CSS Animations</a> A collection of CSS animations that you can use in your upcoming projects.
 
  ## OR
 
